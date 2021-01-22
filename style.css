@@ -1,0 +1,53 @@
+h1
+{
+	color: purple;
+}
+
+
+h2
+{
+	color: green;
+}
+
+h3
+{
+	color: darkblue;
+}
+
+h4
+{
+	color: blue;
+}
+
+body
+{
+	background-color: purple
+}
+
+#fonddécran
+{
+
+	width: 890px;
+	margin:0 auto;
+	background-color: white;
+	text-align: center;
+	align-content: center;
+}
+
+
+#ndpage
+{
+
+	width: 890px;
+	margin:0 auto;
+	background-color: white;
+	text-align: center;
+	align-content: center;
+
+}
+
+
+
+
+
+
